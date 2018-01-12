@@ -1,16 +1,19 @@
-# My first cool idea {#slug-one}
+# Which professional sports leagues expansion and/or what expansion method to non-traditional markets will payoff? or Can domestic sports leagues expand internationally profitably? {# Is international expansion worth it?}
 
 #### Keywords {-}
 
 yaba, daba, do
 
-## A beginning.
+## Professional sport leages are racing to expand from their traditionl markets, should they?{# Defining success and failure.}
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Sports leagues are trying mulitply ways of expand internationally to sell their product (tickets, merchandise, influence).  Some attempt to play off-season events in faraway lands (e.g., NBA, soccer friendlies).  Others tried to build development leagues in new markets (e.g., the NFL and the European Development League).  Finally, some leagues are putting real, meaningful games outside their home markets (e.g., MLB, NHL, NFL......)
 
-## A middle.
+The NFL tried to conquer Europe with a contient wide development league then downsized to Germany then exited all together.  Fomrula 1 and top tier European national soccer leagues (e.g., English Premier League, La Liga, Bundesliga) are battling to capture the attention of American fans.  The NBA and Italian soccer league are targeting China through team acquisitions (AC Milan and Inter Milan in Sierie A).
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+
+## What market charasteristics or league strategies are most encouraging to to profitable market expansion.
+
+Looking at historical data of NFL Europe's expansion and recent market share gains of recent foreys into foreign markets, looking for trends and key market attribute or behaviors of sports leagues to achieve acceptable results.
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
@@ -19,6 +22,6 @@ knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 
 Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
 
-## An end.
+## What is success and who will win? {# Predicting success criteria and strategies.}.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+there are a lot of stragies tried and still in play.  From the available data the we beleive the following leagues in their respective markets will be successful.  
