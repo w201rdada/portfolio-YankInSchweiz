@@ -1,27 +1,43 @@
-# Which professional sports leagues expansion and/or what expansion method to non-traditional markets will payoff? or Can domestic sports leagues expand internationally profitably? {Is international expansion worth it?}
+# Which professional sports leagues expansion and/or what expansion method to non-traditional markets will payoff? or Can domestic sports leagues expand internationally profitably? {Is professional sport league international expansion worth it?}
 
 #### Keywords {-}
 
-yaba, daba, do
+International expansion, NFL, NHL, MLB, NBA, Serie A, La Liga, English Premier League, EPL,
 
-## Professional sport leages are racing to expand from their traditionl markets, should they?{Defining success and failure.}
+## Professional sport leagues are racing to expand from their traditional markets, should they? {Defining success and failure.}
 
-Sports leagues are trying mulitply ways of expand internationally to sell their product (tickets, merchandise, influence).  Some attempt to play off-season events in faraway lands (e.g., NBA, soccer friendlies).  Others tried to build development leagues in new markets (e.g., the NFL and the European Development League).  Finally, some leagues are putting real, meaningful games outside their home markets (e.g., MLB, NHL, NFL......)
+For the purpose of this idea, we will use North American nomenclature to identify sports, i.e., although known as 'football' to the broader global population, we will refer to the sport as 'soccer' with football being used for American Football (i.e., the National Football League ("NFL")).
 
-The NFL tried to conquer Europe with a contient wide development league then downsized to Germany then exited all together.  Fomrula 1 and top tier European national soccer leagues (e.g., English Premier League, La Liga, Bundesliga) are battling to capture the attention of American fans.  The NBA and Italian soccer league are targeting China through team acquisitions (AC Milan and Inter Milan in Sierie A).
+Domestic Sports leagues are trying multiple ways to expand internationally to monetize their product (broadcast rights, merchandise, tickets, brand).  Some attempt to play off-season events in faraway lands (e.g., the National Basketball League ("NBA"), domestic soccer league soccer friendlies).  Others tried to build development leagues in new markets (e.g., the NFL with the European Development League).  Finally, some leagues are putting real, meaningful games outside their home markets (e.g., Major League Baseball ("MLB"), National Hockey League ("NHL"), NFL.
 
+The purpose of this Big Idea is to understand what defines success and to build a model which can predict, based on an international market structure, what strategies a league should pursue to be successful.
 
-## What market charasteristics or league strategies are most encouraging to achieve to profitable market expansion. {The look of success.}
+Sources:  
+Football vs. Soccer Map:  http://uk.businessinsider.com/football-vs-soccer-map-2013-12?r=US&IR=T
+NHL: https://www.nhl.com/news/nhl-aims-to-have-more-overseas-events/c-292838440
+MLB: http://www.latimes.com/sports/mlb/la-sp-mlb-international-play-20170728-story.html
+NFL:  http://www.nfluk.com/news/internationalseries/article-1/2018-NFL-London-Games-announced/80348ca8-07c3-45f8-b6e5-23215a598e2a
 
-Looking at historical data of NFL Europe's expansion and recent market share gains of recent foreys into foreign markets, looking for trends and key market attribute or behaviors of sports leagues to achieve acceptable results.
+## What market characteristics or league strategies are most encouraging to achieve to profitable market expansion. {The look of success.}
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+The right way to describe the problem is to is to understand what market dynamics (political, economic, social construction) make internal expansion more likely to succeed and attempt to predict the best actions or activities of leagues to maximize the potential for a positive outcome.  
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+Looking at the behavior of professional domestic league decision making, we will explore markets where Professional leagues have tried and failed (NFL development league in Europe and subsequently Germany), ongoing experiments in two classes:  (1) meaningful games defined as games being played with impact on league standings (e.g., MLB, NFL, NHL) and (2) off-season games defined as games played with no impact on league standings (e.g., NBA, European national soccer league friendlies).  Within these categories we will attempt to capture performance results through a variety of data sets including attendance at live events, merchandise sales outside domestic markets, international television rights valuation over time, international club membership where such official clubs exist.  The analysis will ignore the investments needed to achieve any results assuming leagues behave in as rational profit seeking entities over the long-term.
+
+To define market conditions will will explore the target expansion market across a variety of social, economic and political data sets.  Looking at the social infrastructure we will concentrate on population growth and size of a defined target market (e.g., age, sex) and existing local sporting enthusiasms based on available market data similar to above criteria (e.g., TV licensing, merchandise sales, sport club enrollments, estimate population of to be defined criteria of being a "sports fan").  Economic data will perhaps be the most readily available from international sources including Gross Domestic Product, Disposable Income, a to be defined middle-class identification, population growth.  Finally, we will attempt to find viable public data on the political environment as it relates to foreign company acceptance through a variety of means including understanding trade surplus or deficit, non-sport product introduction success / failure, stability of government, political system or general tolerance for international corporate entities.  Other data points we will consider are the correlation between the national marketing and international expansion target market looking at number and percentage of target market players in league, junior programs in target market, time zone difference between national and international target market.  
 
 ## What is success and who will win? {Predicting success criteria and strategies.}.
 
-there are a lot of stragies tried and still in play.  From the available data the we beleive the following leagues in their respective markets will be successful.  
+There are a lot of strategies tried and still in play.  From the available data which to this point is predominantly in my head, we believe the following leagues in their respective markets will be successful:  NHL in Europe and Eastern Asia and MLB in South America.  The drivers of our predictive model that highlight these two leagues as having success is the existing target market influence of baseball and hockey respectively and the number of players already successful in the national league.  The NHL will have a significant challenge similar to that faced by the NFLs expansion into London with the large time zones and distance teams need to cross for games and the corresponding impact on live game viewing opportunities to monetize through broadcast rights.  However, our model predicts the leagues can compensate these challenges building on the established fan base the sport has in market.
+
+Given the positive results of our predictive algorithm, we see immediate applications for identifying expansion markets for national sports leagues and hope to extend the logic to other commercial business or product expansion opportunity identification experiments.  
+
+
+## Old Wording {IGNORE ME}
+
+The NFL tried to conquer Europe with a continent wide development league then downsized to Germany then exited all together.  Formula 1 and top tier European national soccer leagues (e.g., English Premier League, La Liga, Bundesliga) are battling to capture the attention of American fans with preseason .  The NBA and Italian soccer league are targeting China through team acquisitions (AC Milan and Inter Milan in Serie A).
+
+
+Expansion strategies
+
+Looking at historical data of NFL Europe's expansion and recent market share gains of recent forays into foreign markets, looking for trends and key market attribute or behaviors of sports leagues to achieve acceptable results.
