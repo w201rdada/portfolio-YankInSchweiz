@@ -31,13 +31,3 @@ To define market conditions will will explore the target expansion market across
 There are a lot of strategies tried and still in play.  From the available data which to this point is predominantly in my head, we believe the following leagues in their respective markets will be successful:  NHL in Europe and Eastern Asia and MLB in South America.  The drivers of our predictive model that highlight these two leagues as having success is the existing target market influence of baseball and hockey respectively and the number of players already successful in the national league.  The NHL will have a significant challenge similar to that faced by the NFLs expansion into London with the large time zones and distance teams need to cross for games and the corresponding impact on live game viewing opportunities to monetize through broadcast rights.  However, our model predicts the leagues can compensate these challenges building on the established fan base the sport has in market.
 
 Given the positive results of our predictive algorithm, we see immediate applications for identifying expansion markets for national sports leagues and hope to extend the logic to other commercial business or product expansion opportunity identification experiments.  
-
-
-## Old Wording {IGNORE ME}
-
-The NFL tried to conquer Europe with a continent wide development league then downsized to Germany then exited all together.  Formula 1 and top tier European national soccer leagues (e.g., English Premier League, La Liga, Bundesliga) are battling to capture the attention of American fans with preseason .  The NBA and Italian soccer league are targeting China through team acquisitions (AC Milan and Inter Milan in Serie A).
-
-
-Expansion strategies
-
-Looking at historical data of NFL Europe's expansion and recent market share gains of recent forays into foreign markets, looking for trends and key market attribute or behaviors of sports leagues to achieve acceptable results.
