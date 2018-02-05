@@ -1,3 +1,5 @@
 ~/_deploy.sh
-~/index.Rmd
 ~/_build.sh
+~/references.bib
+~/02.Rmd
+~/index.Rmd
