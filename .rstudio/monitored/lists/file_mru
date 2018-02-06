@@ -1,3 +1,4 @@
+~/.gitignore
 ~/_build+deploy.R
 ~/01.Rmd
 ~/_deploy.sh
