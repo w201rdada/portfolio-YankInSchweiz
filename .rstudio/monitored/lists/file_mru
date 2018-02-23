@@ -1,5 +1,5 @@
-~/01.Rmd
 ~/_deploy.sh
+~/01.Rmd
 ~/_build.sh
 ~/.gitignore
 ~/_build+deploy.R
