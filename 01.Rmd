@@ -1,8 +1,8 @@
-# Should national sports leagues look beyond their boards for profits?  {To expand, or not to expand?}
+# Should national sports leagues look beyond their boards for profits?  {#To-expand,-or-not-to-expand?}
 
 Keywords {International expansion, NFL, NHL, MLB, NBA, Serie A, La Liga, English Premier League, EPL,}
 
-## Professional sport leagues are racing to expand from their traditional markets, should they?  {Defining success and failure.}
+## Professional sport leagues are racing to expand from their traditional markets, should they?  {#Defining-success-and-failure.}
 
 Sports leagues are money making machines as evidenced by the increase in franchise values estimated by Forbes [@badenhausen_full_nodate].  The goal of any profit seeking venture is to grow as fast as possible in the short-term without sacrificing long-term profitability.  As leagues look for faster growth, they naturally look to external markets to increase their potential market size.  A brief look back in time shows a list of international expansion failures including the NFL withdrawing from the European continent with their development league [@keeler_you_nodate], Formula 1 entering and exiting the US market on a semi-regular basis, MLB sporadically playing games outside the us in 1996, '99, 2000, '04, '08, '12, '14 [@shaikin_mlb_nodate].  Were any of these exercises profitable, and if so, what are the factors that lead to a successful expansing?
 
@@ -12,7 +12,7 @@ Domestic Sports leagues are currently trying multiple ways to expand internation
 
 The purpose of this Big Idea is to understand what defines success and to build a model which can predict, based on an international market structure, what strategies a league should pursue to be successful.  Specifically, we are trying to identify key success criteria by sport to maximize their chance of profitable expansion given a market structure of their target market.
 
-## What market characteristics are most encouraging to achieve to profitable market expansion.  {The look of success.}
+## What market characteristics are most encouraging to achieve to profitable market expansion.  {#The-look-of-success.}
 
 The right way to describe the problem is to is to understand what market dynamics (political, economic, social construction) make internal expansion more likely to succeed and attempt to predict the best actions or activities of leagues to maximize the potential for a positive outcome.  
 
@@ -30,7 +30,7 @@ Other data points we will consider are the correlation between the national mark
 
 With this information, the aim is to build a predictive model of strategy options for leagues to maximize their expected profitability.
 
-## What is success and who will win? {Predicting success criteria and strategies.}.
+## What is success and who will win? {#Predicting-success-citeria-and-strategies.}.
 
 There are a lot of strategies tried and still in play.  From the available data which to this point is predominantly in my head, we believe the following leagues in their respective markets will be successful:  NHL in Europe and Eastern Asia and MLB in South America.  The drivers of our predictive model that highlight these two leagues as having success is the existing target market influence of baseball and hockey respectively and the number of players already successful in the national league.  The NHL will have a significant challenge similar to that faced by the NFLs expansion into London with the large time zones and distance teams need to cross for games and the corresponding impact on live game viewing opportunities to monetize through broadcast rights.  However, our model predicts the leagues can compensate these challenges building on the established fan base the sport has in market.  Core to all league success projections is the establishment of an existing middle class and underlying population interest in sports as we defined.  
 
