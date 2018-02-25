@@ -13,3 +13,6 @@
 1517844900388:# a robots.txt, and prepare for manual push to origin. Even after running the
 1517844900389:# script your site will NOT be deployed until you push.
 1517844900391:system("bash _deploy.sh",wait=T)
+1519531474654:system("bash _build.sh",wait=T)
+1519531483130:getOption("viewer")('/home/rstudio/_book/index.html')
+1519531509406:system("./_deploy.sh")

@@ -1,8 +1,8 @@
 ~/_deploy.sh
-~/_build.sh
-~/01.Rmd
-~/.gitignore
 ~/_build+deploy.R
+~/01.Rmd
+~/_build.sh
+~/.gitignore
 ~/references.bib
 ~/02.Rmd
 ~/index.Rmd
