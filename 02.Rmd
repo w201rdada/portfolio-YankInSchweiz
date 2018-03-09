@@ -17,6 +17,7 @@ Mayflies go through 4 distinct phases during their lifecycle.  After hatching fr
 ![](http://flytying123.com/wp-content/uploads/2010/09/Mayfly-Life-cycle-1024x658.jpg)
 
 
+
 Each of these stages represent a food source for trout, the nymphs underwater and during their ascension to the surface to transform into the dun are underwater.  The dun phase is the picturesque moment for fly fishers where the dun is riding on the surface of the water drying its newly opened wings where one can watch fish rise and eat the tiny protein package.  Finally, after the adult phase spinner reproduces, they drop to the to the water completing the cycle making for an easy food supply for trout to eat.  
 
 Mayflies hatch throughout the year, but are concentrated between June - September in the northern hemisphere.  With a life cycle of about 1 year, mayflies are constantly crawling/emerging (nymph), transitioning to flight (dun) and reproducing (spinner).  Adding further uncertainty is a study about the impact of global warming potentially halving the life cycle [@owen_short_2011] which could make knowing the timing of the hatch even more unpredictable as it varies from historical norms impacting fishermen and women, but more importantly, disrupting an important food source for the trout themselves.  
@@ -31,7 +32,7 @@ We will investigate water health through the following variables, we expect to h
 
 * Water Temperature - ideal temperature for fish is below 68 F (20 C) [@shmukler_trout_nodate]
 * Dissolved Oxygen - oxygen is crucial to all aquatic life and insects can be an early detection system in weather health.  As water temperature rises, oxygen levels decrease, but there are other manmade causes of decreased DO [@dept._natural_resources_species_nodate]
-* water flow speed (km/h) - one theory is that mayfly larva need fast flowing water, rate to be determined [@baumgardner_preliminary_2005]
+* Water flow speed (km/h) - one theory is that mayfly larva need fast flowing water, rate to be determined [@baumgardner_preliminary_2005]
 * Water level - higher than average water levels is questioned as a potential
 
 We will investigate other environmental factors above the water looking for historical correlation to hatches or non-hatches as a predicting trigger of hatches:
