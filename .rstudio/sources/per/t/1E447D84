@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3501785120",
+    "hash" : "3434582903",
     "id" : "1E447D84",
-    "lastKnownWriteTime" : 1519531509,
-    "last_content_update" : 1519531509256,
+    "lastKnownWriteTime" : 1520617208,
+    "last_content_update" : 1520617208,
     "path" : "~/_deploy.sh",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "4,36",
+        "cursorPosition" : "4,35",
         "scrollLine" : "0"
     },
     "relative_order" : 3,

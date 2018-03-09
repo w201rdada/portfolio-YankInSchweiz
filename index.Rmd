@@ -33,15 +33,27 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Identifing success criteria and Market Expansion Strategies for Sports Leages to Win in Foreign Markets  {#Sports-Leagues-Expansion-Success-Prediction}
 
+<<<<<<< HEAD
 Looking for underlying market conditions and the behaoviors of sports leages to identify successful strategies to expanding into foreign markets. 
+=======
+(ref:abs1) Hi I'm an abstract for your first big idea! I'm also a [text reference](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references), which is a line of text you can reuse in several places. Use me to write a one paragraph abstract and place it in `index.Rmd` as well as under the title of `01.Rmd`. Once defined, you can reuse me simply by writing `(ref:abs1)` where you want this text to go.
+
+(ref:abs1)
+>>>>>>> d0372646eb57d9f3409fedd0d8adf79b0c083b1c
 
 ### Predicting the hatch timing of Mayflies {#Fly-Fishing-Match-the-Hatch-Prediction}
 
+<<<<<<< HEAD
 Identfy through weather patterns over a 12 month cycle the conditions to provide for accurate forecast of Mayfly hatches.  For use by travel planners, guides and fly shops for trip planning and sales recommendations, and for the individual fly fisherman/women to know what flies to bring on the water. 
   
 ### TBD {-}
 
 TBD
+=======
+(ref:abs2) I'm also an abstract! And a text reference! An abstract is all three acts of your story in a tight little package. You may or may not want to give the ending away, but if you think there's a chance an audience will read this and nothing else, you'd better convey your argument here in miniature. People are busy after all, and there's just so much good tv on the Internet these days.
+
+(ref:abs2)
+>>>>>>> d0372646eb57d9f3409fedd0d8adf79b0c083b1c
 
 ## About the author {-}
 
