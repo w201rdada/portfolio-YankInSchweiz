@@ -1,6 +1,6 @@
 # Know what fish are eating before arriving on the water? {#Predicting-the-Hatch-For-Fly-Fishing}
 
-#### Keywords {Fly Fishing, Fly Tying, entomology, midges, stone flies, caddis flies, terrestrials}
+#### Keywords {Weather Predictive Analytics, Insect Life Cycle Predictive Modeling, Fly Fishing, Fly Tying, entomology, midges, stone flies, caddis flies, terrestrials}
 
 ## Knowing what fish are eating is important to catching them, the problem is what you see is not always what the fish see or are eating {#Importance-of-Knowledge-of-Fish-Food-Sources-and-Life-Cycles}
 
@@ -8,19 +8,21 @@ Standing hip deep in the water before the sun rises is simultaneously a feeling 
 
 Trout adhere to a simple formula to survive, they hunt for the largest food source with a nutritional contribution greater than the energy expense to capture their prey. Although known to eat a wide variety of foods from ants to mice, their primary diet are insects loosely defined in 4 categories: mayflies (Ephemeroptera), caddisflies (Trichoptera), midges (Diptera), and stoneflies (Plecoptera).
 
-"'Matching the hatch”—another common term you’ll hear in fly-fishing circles—is the act of choosing the right fly and presenting it in the correct manner to fool selectively feeding trout." [@fisherman_what_2016] Each type of insect has it's own special development cycle, for this initial study we will focus on mayflies and look to expand the logic to other types when successful in predicting the hatch.
+"'Matching the hatch'—another common term you’ll hear in fly-fishing circles—is the act of choosing the right fly and presenting it in the correct manner to fool selectively feeding trout." [@fisherman_what_2016] Each type of insect has it's own special development cycle, for this initial study we will focus on mayflies and look to expand the logic to other types when successful in predicting the hatch.
 
-## Combining what we know about entamology and weather patterns, we will predict what the fish are eating up to 48 hours in advance {#The-Science-of-Predicting-a-Bugs-Hatch}
+## Combining what we know about entomology and weather patterns, we will predict what the fish are eating up to 48 hours in advance {#The-Science-of-Predicting-a-Bugs-Hatch}
 
 Mayflies go through 4 distinct phases during their lifecycle.  After hatching from an egg they live on the bottom of rivers as a nymph.  After months or years depending on the species, they float to the surface and molt into a winged, but sexually immature, subadult. [@stewart_mayflies_nodate] called a dun.  Finally free of the water the dun will again molt to their final stage unscientifically called a spinner which is the reproductive form which then swarms over the water to mate, lay eggs and eventually die.
 
-Each of these stages represent a food source for trout, the nymphs underwater and during their ascension to the surface to transform into the dun.  The dun phase is the picturesque moment for fly fishers where the dun is riding on the surface of the water drying its newly opened wings where one can watch fish rise and eat the tiny protein package.  Finally, after the adult phase, spinner, reproduces they drop to the to the water for an easy food supply for trout to eat.  
+![](http://flytying123.com/wp-content/uploads/2010/09/Mayfly-Life-cycle-1024x658.jpg)
+
+Each of these stages represent a food source for trout, the nymphs underwater and during their ascension to the surface to transform into the dun.  The dun phase is the picturesque moment for fly fishers where the dun is riding on the surface of the water drying its newly opened wings where one can watch fish rise and eat the tiny protein package.  Finally, after the adult phase spinner reproduces, they drop to the to the water completing the cycle making for an easy food supply for trout to eat.  
 
 Mayflies hatch throughout the year, but are concentrated between June - September in the northern hemisphere.  With a life cycle of about 1 year, mayflies are constantly crawling/emerging (nymph), transitioning to flight (dun) and reproducing (spinner).  Adding further uncertainty is a study about the potential impact of global warming potentially halving the life cycle [@owen_short_2011] which could make knowing the timing of the hatch even more unpredictable as it varies from historical norms impacting fishermen and women, but more importantly, disrupting an important food source of the trout themselves.  
 
 When it happens, and you are there, you can't miss it.  People plan entire trips to fly fishing hotspots when they expect the hatch (transition to dun) in the June, July time frame.  However, being there for a week during the peak month does not mean you are there for the hatch.  Fly fishing is almost a $1 billon industry with over $100 million spent on flies [@fly_life_magayine_fly_nodate] and looking for growth away from the historically male dominated demographics [@clarke_fly_2017].  Knowing which flies to tie or buy will help individuals save money and catch more fish, and for fly shops to sell more of the right flies to guests ensuring a more productive day on the water and, hopefully generating more repeat customers with successful visits [@perry_fly_2014]  Beyond the emotional (more fish) and commercial (more revenue) aspects, we hope this exercise will also provide a framework for further academic study on the impact of weather on insect development and life cycles.  
 
-As we explore the topic of the triggers for mayfly hatches (the process of moving from a nymph to a dun and the subsequent ca. 2 days of reproduction as a spinner), the prevailing theory is environmental factors are the key driver of when mother nature hits the switch to begin the transition.  Specifically, we will investigate the overall status of the waterways.  The majority of documented mayfly hatches are negative investigations where researchers attempted to understand the absence of hatches.  We will use this as our primary data source for water health and other environmental factors which potentially prevent or delay hatches.  We will then conduct a survey of fly shops (stores and guide communities) for ongoing observational information on when large hatches occur to use modify and improve our models for more accurate predictions.  
+As we explore the topic of the triggers for mayfly hatches (the process of moving from a nymph to a dun and the subsequent ca. 2 days of reproduction as a spinner), the prevailing theory is environmental factors are the key driver of when mother nature hits the switch to begin the transition.  Specifically, we will investigate the overall status of the waterways.  The majority of documented mayfly hatches are negative investigations where researchers attempted to understand the absence of hatches.  We will use this as our primary data source for water health and other environmental factors which potentially prevent or delay hatches.  We will then conduct a survey of fly shops (stores and guide communities) for ongoing observational information on when large hatches occur to use modify and improve our models for more accurate predictions.  As mayflies are native to waterways throughout the world, we will begin our investigation in Bozeman, Montana, arguably the fly fishing capital of the US if not the world, and use these findings to predict other geographies to support or reject our models.  The next hatch will begin in June or July which gives us sufficient time to begin building our historical variables and get quick feedback on the initial thinking by observation of the 2018 hatch.
 
 We will investigate water health through the following variables, we expect to have access to public data sets from fisheries and government agencies:
 - Water Temperature - ideal temperature for fish is below 68 F (20 C)[@shmukler_trout_nodate]
@@ -33,12 +35,25 @@ We will investigate other environmental factors above the water looking for hist
 - rainfall
 - wind speed
 
-We hope that by using these data points over the span of the mayfly life cycle (ca. 1 year) we can triangulate the reasons for a hatch and better to understand environmental factors that will prevent the occurrence of a hatch.  
+We hope that by using these data points over the span of the mayfly life cycle (ca. 1 year) we can triangulate the reasons for a hatch and better to understand environmental factors that will prevent the occurrence of a hatch.  Finally, we will enlist the support of fly fishing shops and guides to provided survey feedback on hatch status on a daily basis through survey.  We hope to tap into the general enthusiasm of the fly fishing community to learn about and protect the natural habitat that is the source of their livelihood as a motivation for supporting our study.  
+
+To model the hatch, we will treat the development phases using a Markov Chain state transition model.  This will allow for multivariable prediction with the outcome being a probability of development stage transition.  
+
+In summary, the key data points and data sources in the initial phase represent:
+
+| Data Point      | Time Perspective     | Data Source     |
+|-----------------|----------------------|-----------------|
+| Weather         | Historical / Current | Weather Service |
+| Water           | Historical / Current | Weather Service |
+| Actual Hatch    | Current              | Onsite Survey   |
+| Predicted Hatch | Future               | Model           |
 
 ## Insects entry into the food source for fish is impacted by weather, but not exclusively to determine what the fish are eating at any given time. {#Predicting-Mother-Nature-is-Tough-but-an-Approximation-is-Better-Than-Nothing}
 
-Predicting the weather is an impossible task.  Predicting a biological species reaction to weather events is adding uncertainty to the impossible.  That said, although we are not able to exactly predict the event of a mayfly hatch, the results are a positive first step in identifying the core factors of mayfly development an understanding of the timing of their emergence from the nymph to the dun phase.  
+Predicting the weather is an impossible task.  Predicting a biological species reaction to weather events is adding uncertainty to the impossible.  That said, although we are not able to exactly predict the event of a mayfly hatch, the results are a positive first step in identifying the core factors of mayfly development an understanding of the timing of their emergence from the nymph to the dun phase.    
 
 Our conclusions that the key determinant to predict hatches is set up to 6 months before the actual date where periods of high weather changes defined as movements of more than 20 degrees C within a 10 day span will stunt the nymphs by up to 1 month against a loosely defined standard 12 month nymphal development period.  Additionally, as water temperatures rise by more than 2x the historical 12 month average, within a 3 month period prior to the expected hatch will delay the ensuing hatch by up to 2 weeks.  As our data points are mostly in the negative, when a hatch doesn't occur, we expect to overlay our initial findings as we receive more scientifically captured observational feedback from the fly shop and guides of which we have less than 1 season of input.  
+
+We are exploring the use of the models for both short-term predictions for immediate drop what your doing and go fish in this general area and also looking at the long-term which will allow for better planning for tourism and regional migration to areas with the highest hatch potential during a given time frame.  We, as a research team, must also remain diligent to avoid a moral hazard if our models are either too predictive, or in use too much, which would route more fishermen and women to specific locations.  We address this possibility for future consideration and will watch our models predictive accuracy with this in mind should it prove necessary.  
 
 As we continue to refine our methodology and model, we will include other trout food species and expand our environmental data sets looking for parallels to current environmental studies on the impact of rising temperatures specifically as it relates to freshwater rivers.  
