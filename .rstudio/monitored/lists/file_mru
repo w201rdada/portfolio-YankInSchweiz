@@ -1,7 +1,7 @@
+~/_build+deploy.R
 ~/02.Rmd
 ~/_deploy.sh
 ~/_build.sh
-~/_build+deploy.R
 ~/01.Rmd
 ~/.gitignore
 ~/references.bib

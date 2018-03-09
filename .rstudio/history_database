@@ -16,3 +16,17 @@
 1519531474654:system("bash _build.sh",wait=T)
 1519531483130:getOption("viewer")('/home/rstudio/_book/index.html')
 1519531509406:system("./_deploy.sh")
+1520627884311:# BUILD
+1520627884322:# Run the build line to render .Rmd to .html, and to serve the preview website
+1520627884323:# on the preview port
+1520627884326:system("bash _build.sh",wait=T)
+1520627889603:# PREVIEW
+1520627889605:# Replace 'index.html' with whichever page you're working on. After opening it
+1520627889607:# the first time you can just reload the browser.
+1520627889611:getOption("viewer")('/home/rstudio/_book/index.html')
+1520627889614:# DEPLOY
+1520627889616:# Always after building, run the deploy line to copy .html from the preview
+1520627889617:# folder to the deployment folder (/home/rstudio/docs/), commit all changes, add
+1520627889619:# a robots.txt, and prepare for manual push to origin. Even after running the
+1520627889620:# script your site will NOT be deployed until you push.
+1520627889624:system("bash _deploy.sh",wait=T)
