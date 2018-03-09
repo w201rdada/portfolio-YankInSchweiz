@@ -1,14 +1,6 @@
 # Know what fish are eating before arriving on the water? {#Predicting-the-Hatch-For-Fly-Fishing}
 
-<<<<<<< HEAD
 #### Keywords {Weather Predictive Analytics, Insect Life Cycle Predictive Modeling, Fly Fishing, Fly Tying, entomology, midges, stone flies, caddis flies, terrestrials}
-=======
-#### Abstract {-}
-
-(ref:abs2)
-
-#### Keywords {-}
->>>>>>> d0372646eb57d9f3409fedd0d8adf79b0c083b1c
 
 ## What you see is not always what the fish see or are eating when choosing tackle {#Importance-of-Knowledge-of-Fish-Food-Sources-and-Life-Cycles}
 
