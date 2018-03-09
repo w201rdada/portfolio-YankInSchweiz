@@ -2,7 +2,7 @@
 
 #### Keywords {Weather Predictive Analytics, Insect Life Cycle Predictive Modeling, Fly Fishing, Fly Tying, entomology, midges, stone flies, caddis flies, terrestrials}
 
-## Knowing what fish are eating is important to catching them, the problem is what you see is not always what the fish see or are eating {#Importance-of-Knowledge-of-Fish-Food-Sources-and-Life-Cycles}
+## What you see is not always what the fish see or are eating when choosing tackle {#Importance-of-Knowledge-of-Fish-Food-Sources-and-Life-Cycles}
 
 Standing hip deep in the water before the sun rises is simultaneously a feeling of total connectedness with nature and detachment from all things not related to catching fish.  However, a day can be ruined if you are not aware of what the fish are eating or worse, don't have the right flies in your fly box that mimics what they are eating in the correct stage of the insects life cycle.  This study attempts to build a model to predict mayfly hatches based on current and recent weather patterns but also looking back to the historical weather facts to identify key points in the bugs development cycle for more accurate predictions.  
 
