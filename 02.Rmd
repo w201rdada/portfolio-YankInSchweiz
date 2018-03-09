@@ -26,14 +26,14 @@ As we explore the topic of the triggers for mayfly hatches (the process of movin
 
 As mayflies are native to waterways throughout the world, we will begin our investigation in Bozeman, Montana, arguably the fly fishing capital of the US if not the world, and use these findings to predict other geographies to support or reject our models.  The next hatch will begin in June or July which gives us sufficient time to begin building our historical variables and get quick feedback on the initial thinking by observation of the 2018 hatch.
 
-!We will investigate water health through the following variables, we expect to have access to public data sets from fisheries and government agencies:
+We will investigate water health through the following variables, we expect to have access to public data sets from fisheries and government agencies:
 
 * Water Temperature - ideal temperature for fish is below 68 F (20 C) [@shmukler_trout_nodate]
 * Dissolved Oxygen - oxygen is crucial to all aquatic life and insects can be an early detection system in weather health.  As water temperature rises, oxygen levels decrease, but there are other manmade causes of decreased DO [@dept._natural_resources_species_nodate]
 * water flow speed (km/h) - one theory is that mayfly larva need fast flowing water, rate to be determined [@baumgardner_preliminary_2005]
 * water level - higher than average water levels is questioned as a potential
 
-!We will investigate other environmental factors above the water looking for historical correlation to hatches or non-hatches as a predicting trigger of hatches:
+We will investigate other environmental factors above the water looking for historical correlation to hatches or non-hatches as a predicting trigger of hatches:
 
 * cloud cover
 * rainfall
