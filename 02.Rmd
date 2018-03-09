@@ -32,13 +32,13 @@ We will investigate water health through the following variables, we expect to h
 * Water Temperature - ideal temperature for fish is below 68 F (20 C) [@shmukler_trout_nodate]
 * Dissolved Oxygen - oxygen is crucial to all aquatic life and insects can be an early detection system in weather health.  As water temperature rises, oxygen levels decrease, but there are other manmade causes of decreased DO [@dept._natural_resources_species_nodate]
 * water flow speed (km/h) - one theory is that mayfly larva need fast flowing water, rate to be determined [@baumgardner_preliminary_2005]
-* water level - higher than average water levels is questioned as a potential
+* Water level - higher than average water levels is questioned as a potential
 
 We will investigate other environmental factors above the water looking for historical correlation to hatches or non-hatches as a predicting trigger of hatches:
 
-* cloud cover
-* rainfall
-* wind speed
+* Cloud cover
+* Rainfall
+* Wind speed
 
 We hope that by using these data points over the span of the mayfly life cycle (ca. 1 year) we can triangulate the reasons for a hatch and better to understand environmental factors that will prevent or maximize the occurrence of a hatch.  Finally, we will enlist the support of fly fishing shops and guides to provided survey feedback on hatch status on a daily basis through survey.  We hope to tap into the general enthusiasm of the fly fishing community to learn about and protect the natural habitat that is the source of their livelihood as a motivation for supporting our study.  
 
